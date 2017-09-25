@@ -1,17 +1,17 @@
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/UnityEngine.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/UnityEditor.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/UnityEngine.UI.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/UnityEngine.Networking.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Mono.Cecil.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Unity.SerializationLogic.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Unity.DataContract.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/ICSharpCode.NRefactory.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Unity.UNetWeaver.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Unity.CecilTools.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Mono.Cecil.Pdb.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Mono.Cecil.Mdb.dll
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Assembly-CSharp.dll.mdb
-/Users/Jacob/Desktop/Night Sky/Temp/bin/Debug/Assembly-CSharp.dll
-/Users/Jacob/Desktop/Night Sky/obj/Debug/Assembly-CSharp.dll
-/Users/Jacob/Desktop/Night Sky/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/obj/Debug/Assembly-CSharp.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/UnityEngine.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/UnityEditor.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Jacob/Desktop/Game Programming/A_Sky_Full_of_Stars/Night Sky/Temp/bin/Debug/Mono.Cecil.Mdb.dll
