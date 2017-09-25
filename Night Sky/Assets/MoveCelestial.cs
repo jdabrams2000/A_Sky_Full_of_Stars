@@ -7,12 +7,13 @@ public class MoveCelestial : MonoBehaviour {
 	public float initX;
 	public float initY;
 
-	public float r;
-	public float degrees = 0.0f;
+	private float r;
+	private float degrees;
 
 	// Use this for initialization
 	void Start () {
-		float r = Mathf.Sqrt(initX * initX + initY * initY);
+		r = Mathf.Sqrt(initX * initX + initY * initY);
+		degrees = 0.0f;
 		transform.position = new Vector3(initX, initY, 0.0f);
 	}
 	
