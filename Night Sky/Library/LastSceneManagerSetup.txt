@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/A Sky Full of Stars.unity
+  isLoaded: 1
+  isActive: 1
