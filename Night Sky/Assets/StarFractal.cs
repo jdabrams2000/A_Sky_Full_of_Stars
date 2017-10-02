@@ -41,8 +41,6 @@ public class StarFractal : MonoBehaviour {
 			materials[i, 1] = new Material(material);
 			materials[i, 1].color = Color.Lerp(Color.white, Color.cyan, t);
 		}
-		materials[maxDepth, 0].color = Color.magenta;
-		materials[maxDepth, 1].color = Color.red;
 	}
 	private void Start () {
 		rotationSpeed = Random.Range(-maxRotationSpeed, maxRotationSpeed);
